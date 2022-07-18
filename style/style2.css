@@ -1,0 +1,40 @@
+
+header{
+  width: 100%;
+  padding: 10px 0.5% 0px 0.5%;
+  background: transparent;
+  float: left;
+  position: ;
+}
+
+header #logo{
+  color: #fff;
+  cursor: pointer;
+}
+header #logo span{
+  font-size: 1.7em;
+  line-height: 45px;
+  margin-left: 40px;
+  font-family: Suez One, serif;
+}
+
+
+
+html {
+  background-image: url(https://mota.ru/upload/wallpapers/source/2013/01/09/13/05/34251/TA4xPT5p4q.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.fix{
+  color: white;
+  font-family: Tahoma;
+}
+
+
+
